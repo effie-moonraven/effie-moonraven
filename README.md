@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack development, python, and data science.
 - 🌱 I’m currently learning. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: effiemoonraven@gmail.com
+- 📫 How to reach me: 
 - 😄 Pronouns: them/they
 - ⚡ Fun fact: ...
 
